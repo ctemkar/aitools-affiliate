@@ -1,0 +1,52 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+Disallow: /tmp/
+
+Sitemap: https://ctemkar.github.io/aitools-affiliate/sitemap.xml
+
+# Crawl-delay: 10  # Uncomment if site gets too much traffic
+
+# Google AdsBot
+User-agent: AdsBot-Google
+Allow: /
+
+# Google Image Bot
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /private-images/
+
+# Bing Bot
+User-agent: bingbot
+Allow: /
+Crawl-delay: 10
+
+# Common AI/SEO bots
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Bad bots to block
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Development/staging
+User-agent: *
+Disallow: /staging/
+Disallow: /test/
+Disallow: /dev/
