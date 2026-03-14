@@ -1,18 +1,17 @@
 {
-  "timestamp": "2026-03-14 12:16:17",
-  "issues_found": 13,
-  "total_issues": 23,
+  "timestamp": "2026-03-14 12:17:57",
+  "issues_found": 10,
+  "total_issues": 13,
   "review_count": 9,
   "details": {
     "./index.html": [
       "External link returns 403: https://openai.com/chatgpt/pricing",
-      "External link returns 403: https://www.midjourney.com/account/plan/",
+      "External link returns 403: https://docs.midjourney.com/docs/plans",
       "External link returns 404: https://www.anthropic.com/claude/pro"
     ],
     "./test_local.html": [
       "External link returns 404: https://github.com/chetantemkar/aitools-affiliate",
-      "External link returns 404: https://chetantemkar.github.io/aitools-affiliate/",
-      "Relative link to index that may break: index.html"
+      "External link returns 404: https://chetantemkar.github.io/aitools-affiliate/"
     ],
     "./google-site-verification.html": [
       "Placeholder text found: placeholder"
@@ -21,37 +20,22 @@
       "Placeholder text found: placeholder"
     ],
     "./reviews/ChatGPT-review-complete.html": [
-      "External link returns 403: https://openai.com/chatgpt/pricing",
-      "Relative link to index that may break: index.html"
+      "External link returns 403: https://openai.com/chatgpt/pricing"
     ],
     "./reviews/Gemini-review-complete.html": [
-      "External link returns 404: https://gemini.google.com/upgrade",
-      "Relative link to index that may break: index.html"
-    ],
-    "./reviews/Notion-AI-review-complete.html": [
-      "Relative link to index that may break: index.html"
+      "External link returns 404: https://gemini.google.com/upgrade"
     ],
     "./reviews/Perplexity-AI-review-complete.html": [
-      "External link returns 403: https://www.perplexity.ai/pro",
-      "Relative link to index that may break: index.html"
+      "External link returns 403: https://www.perplexity.ai/pro"
     ],
     "./reviews/DALL-E-review-complete.html": [
-      "Placeholder text found: affiliate link here",
-      "Relative link to index that may break: index.html"
+      "Placeholder text found: affiliate link here"
     ],
     "./reviews/Claude-review-complete.html": [
-      "External link returns 404: https://www.anthropic.com/claude/pro",
-      "Relative link to index that may break: index.html"
-    ],
-    "./reviews/GitHub-Copilot-review-complete.html": [
-      "Relative link to index that may break: index.html"
+      "External link returns 404: https://www.anthropic.com/claude/pro"
     ],
     "./reviews/Midjourney-review-complete.html": [
-      "External link returns 403: https://www.midjourney.com/account/plan/",
-      "Relative link to index that may break: index.html"
-    ],
-    "./reviews/Stable-Diffusion-review-complete.html": [
-      "Relative link to index that may break: index.html"
+      "External link returns 403: https://docs.midjourney.com/docs/plans"
     ]
   }
 }
