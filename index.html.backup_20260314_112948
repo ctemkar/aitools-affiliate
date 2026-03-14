@@ -175,81 +175,6 @@
             opacity: 0.8;
         }
         
-        /* Reviews Section */
-        .reviews-preview {
-            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-            border-radius: 20px;
-            padding: 50px;
-            margin: 40px 0;
-        }
-        
-        .section-header {
-            text-align: center;
-            margin-bottom: 40px;
-        }
-        
-        .section-header h2 {
-            font-size: 2.2rem;
-            color: #333;
-            margin-bottom: 10px;
-        }
-        
-        .section-header p {
-            color: #666;
-            font-size: 1.1rem;
-        }
-        
-        .reviews-list {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 30px;
-            margin-bottom: 40px;
-        }
-        
-        .review-preview {
-            background: white;
-            border-radius: 15px;
-            padding: 30px;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-        }
-        
-        .review-preview h3 {
-            font-size: 1.5rem;
-            color: #333;
-            margin-bottom: 15px;
-        }
-        
-        .review-preview p {
-            color: #666;
-            line-height: 1.6;
-            margin-bottom: 20px;
-        }
-        
-        .review-preview a {
-            color: #667eea;
-            text-decoration: none;
-            font-weight: 600;
-        }
-        
-        .review-preview a:hover {
-            text-decoration: underline;
-        }
-        
-        .view-all {
-            text-align: center;
-        }
-        
-        .view-all-button {
-            display: inline-block;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 15px 30px;
-            border-radius: 8px;
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 1.1rem;
-        }
-        
         @media (max-width: 768px) {
             h1 {
                 font-size: 2.5rem;
@@ -261,14 +186,6 @@
             }
             
             .tools-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            .reviews-preview {
-                padding: 30px 20px;
-            }
-            
-            .reviews-list {
                 grid-template-columns: 1fr;
             }
         }
@@ -294,34 +211,6 @@
                 </div>
             </div>
         </header>
-        
-        <!-- Reviews Section -->
-        <section class="reviews-preview">
-            <div class="section-header">
-                <h2>Latest AI Tool Reviews</h2>
-                <p>In-depth analysis and honest ratings</p>
-            </div>
-            <div class="reviews-list">
-                <div class="review-preview">
-                    <h3>ChatGPT Review</h3>
-                    <p>Complete analysis of OpenAI's flagship AI assistant...</p>
-                    <a href="reviews/ChatGPT-review-complete.html">Read Review →</a>
-                </div>
-                <div class="review-preview">
-                    <h3>Midjourney Review</h3>
-                    <p>Deep dive into the leading AI image generation tool...</p>
-                    <a href="reviews/Midjourney-review-complete.html">Read Review →</a>
-                </div>
-                <div class="review-preview">
-                    <h3>Claude Review</h3>
-                    <p>Anthropic's AI assistant with constitutional AI...</p>
-                    <a href="reviews/Claude-review-complete.html">Read Review →</a>
-                </div>
-            </div>
-            <div class="view-all">
-                <a href="reviews/" class="view-all-button">View All 9 Reviews →</a>
-            </div>
-        </section>
         
         <main>
             <div class="tools-grid">
