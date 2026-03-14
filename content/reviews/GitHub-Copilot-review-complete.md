@@ -5,7 +5,7 @@
 - **Price**: $10/month (individual), $19/user/month (business)
 - **Rating**: ⭐⭐⭐⭐⭐ (5/5)
 - **Free Trial**: 30-day free trial
-- **Affiliate Link**: [Your GitHub Copilot affiliate link here]
+- **Affiliate Link**: [https://github.com/features/copilot]
 
 ## What is GitHub Copilot?
 GitHub Copilot is an AI-powered code completion tool that suggests entire lines or blocks of code as you type. It's like having an AI pair programmer that understands your coding style and project context.

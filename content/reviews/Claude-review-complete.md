@@ -5,7 +5,7 @@
 - **Price**: $20/month (Claude Pro)
 - **Rating**: ⭐⭐⭐⭐½ (4.5/5)
 - **Free Tier**: Yes (with rate limits)
-- **Affiliate Link**: [Your Claude affiliate link here]
+- **Affiliate Link**: [https://www.anthropic.com/claude]
 
 ## What is Claude?
 Claude is Anthropic's AI assistant, known for its strong ethical framework, large context window, and excellent writing capabilities. It's designed to be helpful, harmless, and honest.

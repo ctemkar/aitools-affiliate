@@ -5,7 +5,7 @@
 - **Price**: Free to $20/month (Pro plan)
 - **Rating**: ⭐⭐⭐⭐⭐ (5/5)
 - **Free Tier**: Yes (with limitations)
-- **Affiliate Link**: [Your Perplexity AI affiliate link here]
+- **Affiliate Link**: [https://www.perplexity.ai]
 
 ## What is Perplexity AI?
 Perplexity AI is an AI-powered search engine that combines the accuracy of traditional search with the conversational ability of AI. It provides cited answers with sources, making it ideal for research and fact-checking.

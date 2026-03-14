@@ -5,7 +5,7 @@
 - **Price**: $10-$120/month (depending on plan)
 - **Rating**: ⭐⭐⭐⭐⭐ (5/5)
 - **Free Trial**: Yes (25 generations)
-- **Affiliate Link**: [Your Midjourney affiliate link here]
+- **Affiliate Link**: [https://www.midjourney.com]
 
 ## What is Midjourney?
 Midjourney is a cutting-edge AI image generator that creates stunning, artistic images from text descriptions. It runs on Discord, making it accessible and community-driven.

@@ -5,7 +5,7 @@
 - **Price**: Free (open-source) to $20+/month (hosted services)
 - **Rating**: ⭐⭐⭐⭐½ (4.5/5)
 - **Free Tier**: Yes (run locally for free)
-- **Affiliate Link**: [Your Stable Diffusion hosting affiliate link here]
+- **Affiliate Link**: [https://stability.ai]
 
 ## What is Stable Diffusion?
 Stable Diffusion is an open-source AI image generation model that can run on your own hardware. It offers unparalleled customization, privacy, and control compared to cloud-based alternatives.

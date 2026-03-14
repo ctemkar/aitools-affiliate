@@ -5,7 +5,7 @@
 - **Price**: $10/month (add-on to Notion plans)
 - **Rating**: ⭐⭐⭐⭐ (4/5)
 - **Free Trial**: Yes (20 AI responses free)
-- **Affiliate Link**: [Your Notion affiliate link here]
+- **Affiliate Link**: [https://www.notion.so]
 
 ## What is Notion AI?
 Notion AI is an AI assistant built directly into the Notion workspace. It helps you write, edit, summarize, brainstorm, and organize information without leaving your Notion pages.
