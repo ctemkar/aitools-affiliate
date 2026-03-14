@@ -4,19 +4,24 @@
 
 ### 🎯 TODAY'S 3 SPECIFIC TASKS:
 
-## Task 1: Sign Up for Google AI Affiliate Program
-**Priority: HIGH** - This enables monetization of the Gemini review
-**Time estimate:** 15-20 minutes
-**Steps:**
-1. Visit Google AI affiliate program page: https://ai.google.dev/affiliate
-2. Sign up with your details (Google account)
-3. Get affiliate links for Gemini
-4. Update Gemini review with affiliate links
-5. Test links to ensure they work
+## Task 1: STRATEGY UPDATE - Do NOT Sign Up for Affiliate Programs Yet
+**Priority: CRITICAL** - Wait for traffic proof to avoid rejection
+**Time estimate:** 0 minutes (deferred to Week 2)
+
+**STRATEGY CHANGE:**
+1. **DISCOVERY**: Google AI has no direct affiliate program for Gemini
+2. **STRATEGY**: Wait until we have traffic (50+ visitors) before applying to ANY affiliate programs
+3. **REASON**: Affiliate programs often reject new sites with no traffic
+4. **ACTION**: Replace all placeholder links with actual tool URLs (non-affiliate) for now
+
+**Completed:**
+- ✓ Replaced all `[YOUR_*_AFFILIATE_LINK]` placeholders with actual tool URLs
+- ✓ Site now has functional (non-affiliate) links
+- ✓ Will apply for programs in Week 2 with traffic proof
 
 **Resources:**
-- Google AI affiliate program: https://ai.google.dev/affiliate
-- Your review: `content/reviews/Gemini-review-complete.md`
+- Strategy: Wait for traffic before affiliate applications
+- Fixed links script: `fix_placeholder_links.sh`
 
 ## Task 2: Add Affiliate Links to Gemini Review
 **Priority: HIGH** - Monetize existing content
